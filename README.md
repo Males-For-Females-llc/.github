@@ -1,4 +1,5 @@
-# .github
+# 
+.github.dev
 # https://github.com/Madib036/MMFLLC/blob/main/package.json
 # https://github.com/Madib036/MMFLLC/blob/main/.github%2Fworkflows%2Fstatic.yml
 # https://github.com/Madib036/MMFLLC/blob/main/.github%2Fdependabot.yml
